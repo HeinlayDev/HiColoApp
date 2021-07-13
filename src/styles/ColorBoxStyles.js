@@ -1,5 +1,6 @@
 import chroma from "chroma-js";
 import sizes from "./sizes";
+// eslint-disable-next-line import/no-anonymous-default-export
 export default {
   ColorBox: {
     width: "20%",

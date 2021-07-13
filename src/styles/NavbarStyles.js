@@ -1,5 +1,6 @@
 import sizes from "./sizes";
 
+// eslint-disable-next-line import/no-anonymous-default-export
 export default {
   Navbar: {
     display: "flex",
